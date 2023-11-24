@@ -1,0 +1,6 @@
+D:\progs\projects\Skiing base\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\progs\projects\Skiing base\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\progs\projects\Skiing base\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\progs\projects\Skiing base\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\progs\projects\Skiing base\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\progs\projects\Skiing base\obj\Debug\net7.0\Domain.MvcApplicationPartsAssemblyInfo.cache
